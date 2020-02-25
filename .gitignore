@@ -2,3 +2,6 @@ venv/*
 dist/*
 obdython.egg-info/*
 *.pyc
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
