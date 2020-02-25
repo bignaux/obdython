@@ -9,6 +9,7 @@
        pythonPackages.scipy
        pythonPackages.jupyterlab
        pythonPackages.pyserial
+       pythonPackages.pybluez
     ];
 
   }
